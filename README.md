@@ -76,4 +76,4 @@ endmodule
 
 **RESULTS**
 
-4 bit synchronous up counter and validate functionality
+4 bit synchronous up counter and validate functionality.
